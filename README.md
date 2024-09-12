@@ -1,6 +1,6 @@
 <h1>Welcome to my repository, my name is Robel! <br/><a href="https://github.com/joshmadakor1">Student</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>🖥️ Software Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
