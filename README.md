@@ -1,4 +1,4 @@
-<h1>Welcome to my repository, my name is Robel! <br/><a href="https://github.com/joshmadakor1">Student</a>
+<h1>I'm Robel, welcome to my repository! <br/><a href="https://github.com/joshmadakor1">Student</a>
 
 <h2>🖥️ Software Projects:</h2>
 
